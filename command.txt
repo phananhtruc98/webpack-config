@@ -1,0 +1,3 @@
+npm init -y // add package.json
+
+npm i -D webpack webpack-cli webpack-dev-server // install webpack
