@@ -1,3 +1,7 @@
 npm init -y // add package.json
 
 npm i -D webpack webpack-cli webpack-dev-server // install webpack
+
+npm i -D babel-loader @babel/core @babel/preset-env // install babel
+
+npm install -D cross-env // install cross-env to set env
